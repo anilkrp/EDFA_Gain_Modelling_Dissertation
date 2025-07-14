@@ -1,10 +1,10 @@
-### EDFA_Gain_Modelling_Dissertation
+### EDFA_Gain_Modelling
 
 This repository contains all the materials related to the dissertation project on **"EDFA Gain Modeling using Deep Neural Networks (DNNs)."** The research focuses on developing a DNN model to accurately predict the gain characteristics of Erbium-Doped Fiber Amplifiers (EDFAs) across 95 channels in Wavelength-Division Multiplexing (WDM) systems. The primary goal is to enhance prediction accuracy and improve the efficiency of optical communication networks.
 
 #### Contents:
 
-- **Dissertation Report (PDF):**
+- ** Report (PDF):**
   - A comprehensive document detailing the entire research process, including the problem statement, methodology, results, and conclusions.
 
 - **Source Code (Jupyter Notebook):**
